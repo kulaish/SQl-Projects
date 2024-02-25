@@ -2,6 +2,7 @@
 Dataset:Pizza Sales
 
 Project's key highlights:
+
 1.Analyzed sales trends to identify peak ordering times and seasonal variations.
 
 2.Examined the popularity of different pizza types and toppings to inform menu optimization strategies.
